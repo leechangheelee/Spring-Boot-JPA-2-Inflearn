@@ -7,3 +7,4 @@
 
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/회원-등록-API.md
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/회원-수정-API.md
+  * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/회원-조회-API.md
