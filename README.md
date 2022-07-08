@@ -3,3 +3,4 @@
   * https://www.inflearn.com/course/스프링부트-JPA-API개발-성능최적화
 
 ## **API 개발 기본**
+![image](https://user-images.githubusercontent.com/79301439/177907970-802dfcd4-100a-44f5-8467-f269360b657f.png)
