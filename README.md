@@ -8,3 +8,8 @@
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/회원-등록-API.md
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/회원-수정-API.md
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/회원-조회-API.md
+
+## **API 개발 고급 - 준비**
+![image](https://user-images.githubusercontent.com/79301439/178140777-46e39534-26f7-4ea9-8911-965012977d90.png)
+
+  * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/조회용-샘플-데이터-입력.md
