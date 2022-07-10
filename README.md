@@ -18,3 +18,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/178143313-9d3ffcea-1de0-4cd1-9bdc-e6f95b4a29f3.png)
 
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/간단한-주문-조회-V1.md
+  * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/간단한-주문-조회-V2.md
