@@ -26,3 +26,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/178275116-2da03a18-1e59-41c2-b3ff-5509b2fc51da.png)
 
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/주문-조회-V1.md
+  * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/주문-조회-V2.md
