@@ -36,3 +36,5 @@
 
 ## **API 개발 고급 - 실무 필수 최적화**
 ![image](https://user-images.githubusercontent.com/79301439/181235375-6a6db7fd-2c46-4142-a4d4-86a167820e74.png)
+
+  * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/OSIV와-성능-최적화.md
