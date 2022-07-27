@@ -32,3 +32,4 @@
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/주문-조회-V4.md
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/주문-조회-V5.md
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/주문-조회-V6.md
+  * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/API-개발-고급-정리.md
