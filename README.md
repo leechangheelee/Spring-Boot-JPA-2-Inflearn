@@ -38,3 +38,8 @@
 ![image](https://user-images.githubusercontent.com/79301439/181235375-6a6db7fd-2c46-4142-a4d4-86a167820e74.png)
 
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/OSIV와-성능-최적화.md
+
+## **다음으로**
+![image](https://user-images.githubusercontent.com/79301439/181473931-c1a2955d-38c4-430b-93a0-9ad0885b3743.png)
+
+  * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/스프링-데이터-JPA-소개.md
