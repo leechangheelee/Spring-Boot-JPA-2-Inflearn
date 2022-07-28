@@ -43,3 +43,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/181473931-c1a2955d-38c4-430b-93a0-9ad0885b3743.png)
 
   * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/스프링-데이터-JPA-소개.md
+  * https://github.com/leechangheelee/Spring-Boot-JPA-2-Inflearn/blob/main/QueryDSL-소개.md
